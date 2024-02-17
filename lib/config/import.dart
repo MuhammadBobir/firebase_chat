@@ -1,0 +1,16 @@
+export 'package:firebase_chat/firebase_options.dart';
+export 'package:firebase_core/firebase_core.dart';
+export 'package:flutter/material.dart';
+export 'package:flutter/widgets.dart';
+export 'package:firebase_auth/firebase_auth.dart';
+export 'package:firebase_chat/pages/home.dart';
+export 'package:flutter/foundation.dart';
+export 'package:firebase_chat/pages/login_or_register.dart';
+export 'package:firebase_chat/components/button.dart';
+export 'package:firebase_chat/components/input.dart';
+export 'package:firebase_chat/stores/login_controller.dart';
+export 'package:get/get.dart';
+export 'package:firebase_chat/pages/auth/login.dart';
+export 'package:firebase_chat/pages/auth/register.dart';
+export 'package:cloud_firestore/cloud_firestore.dart';
+export 'package:firebase_chat/pages/auth_gate.dart';
